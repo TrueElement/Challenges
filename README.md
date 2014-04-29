@@ -1,5 +1,6 @@
 Challenges
 ==========
+<<<<<<< HEAD
 Challenges, Programming interview questions, etc.
 
 Math Based
@@ -39,3 +40,7 @@ Programming Goals
 =================
 <ul><li>
 </li></ul>
+=======
+
+Programming challenges, Interview questions, etc.
+>>>>>>> a121cd101e92deaa12fb6dcc2acf58317ee8a237
